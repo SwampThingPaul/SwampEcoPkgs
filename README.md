@@ -6,7 +6,8 @@
 # SwampEcoPkgs
 
 An R package to install and load commonly used CRAN and Github packages
-by the author and affiliated analysts.
+by the author and affiliated analysts. Inspired by
+[poissonconsulting/poispkgs](https://github.com/poissonconsulting/poispkgs).
 
 ## Useage
 
