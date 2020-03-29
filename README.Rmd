@@ -1,0 +1,33 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,
+  fig.path="README-")
+```
+
+**This package is still in development**
+
+# SwampEcoPkgs
+
+An R package to install and load commonly used CRAN and Github packages by the author and affiliated analysts. 
+
+## Useage
+```{r,eval=F}
+
+library(SwampEcoPkgs)
+
+```
+
+## Installation
+
+To install the latest development version from [GitHub](https://github.com/SwampThingPaul/SwampEcoPkgs)
+
+```{r, eval = FALSE}
+install.packages("devtools");
+devtools::install_github("SwampThingPaul/SwampEcoPkgs", dependencies = TRUE)
+```

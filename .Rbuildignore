@@ -1,2 +1,8 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
+^README-.*\.png$
+^pkgdown$
+^_pkgdown\.yml$
+^build\.R$
+^LICENSE\.md$
